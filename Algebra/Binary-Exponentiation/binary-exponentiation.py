@@ -18,6 +18,9 @@ def binpow2(a, b):
         b >>= 1
     return res
 
+# modulo does not interfere with multiplication
+
+
 a, b = [int(x) for x in input('').split(' ')]
 print(binpow(a, b))
 print(binpow2(a, b))
