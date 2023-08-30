@@ -1,0 +1,2 @@
+ounter[i] << " ";
+        cout << endl;
