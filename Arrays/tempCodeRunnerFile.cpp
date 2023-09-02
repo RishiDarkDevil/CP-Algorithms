@@ -1,2 +1,2 @@
-ounter[i] << " ";
-        cout << endl;
+
+            ub = mid - 1;
